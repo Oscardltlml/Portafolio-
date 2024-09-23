@@ -1,68 +1,75 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# <p align="center">🚀 Portafolio de <strong>Oscar Omar Aguilera de la Torre</strong> 🚀</p>
 
-## Available Scripts
+<p align="center"><em>Ingeniero en Computación | Universidad de Guadalajara 🎓</em></p>
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollador_Fullstack-Backend_&_Frontend-blue?style=for-the-badge" alt="Desarrollador Fullstack">
+  <img src="https://img.shields.io/badge/Inteligencia_Artificial-Analisis_de_Datos-red?style=for-the-badge" alt="IA & Análisis de Datos">
+</p>
 
-### `npm start`
+<p align="center">Este portafolio contiene proyectos que demuestran mis habilidades en desarrollo de software, bases de datos, APIs y diseño web.</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<hr>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 🌐 <strong>Proyectos Destacados</strong>
 
-### `npm test`
+### 1. 📊 <strong>Aplicación de Bases de Datos</strong>
+- **Descripción:** Un sistema de gestión de bases de datos que optimiza el almacenamiento y consulta de información. Incluye integraciones con APIs y control de accesos.
+- **Tecnologías:** Python, SQL, MongoDB
+- [🔗 Ver repositorio](https://github.com/Oscardltlml/tu-repositorio-bd)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### 2. ☁️ <strong>API del Clima</strong>
+- **Descripción:** Aplicación API que consulta el clima en tiempo real usando APIs externas. Muestra pronósticos y actualizaciones en una interfaz sencilla.
+- **Tecnologías:** Python, Flask, OpenWeather API
+- [🔗 Ver repositorio](https://github.com/Oscardltlml/tu-repositorio-api-clima)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### 3. 🌐 <strong>Páginas Web con CSS Moderno</strong>
+- **Descripción:** Colección de sitios web dinámicos y responsivos utilizando HTML5, CSS3 y JavaScript. Enfocados en usabilidad y diseño visual atractivo.
+- **Tecnologías:** HTML, CSS3, JavaScript
+- [🔗 Ver repositorio](https://github.com/Oscardltlml/tu-repositorio-web-css)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr>
 
-### `npm run eject`
+## 🛠️ <strong>Habilidades Técnicas</strong>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<table>
+  <tr>
+    <td><strong>Lenguajes:</strong></td>
+    <td>Python, JavaScript, C++, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks & Librerías:</strong></td>
+    <td>Flask, Bootstrap, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Desarrollo Web:</strong></td>
+    <td>HTML5, CSS3, JavaScript, APIs REST</td>
+  </tr>
+  <tr>
+    <td><strong>Bases de Datos:</strong></td>
+    <td>SQL, MySQL, MongoDB</td>
+  </tr>
+</table>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<hr>
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📫 <strong>Contacto</strong>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<ul>
+  <li><strong>Correo:</strong> <a href="mailto:oscar.aguileradlt12@gmail.com">oscar.aguileradlt12@gmail.com</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/Oscardltlml">Oscardltlml</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/oscar-omar-aguilera-de-la-torre-444754324" target="_blank">Oscar Omar Aguilera de la Torre</a></li>
+</ul>
 
-## Learn More
+<hr>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="center"><em>"El desarrollo de software es una mezcla de arte y ciencia"</em></p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Oscardltlml?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Oscardltlml?style=social" alt="GitHub stars">
+</p>

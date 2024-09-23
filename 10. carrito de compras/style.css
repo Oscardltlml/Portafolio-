@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#store-container {
+  display: flex;
+  gap: 10px;
+}
+
+#store-container .item {
+  border: solid 1px #ccc;
+  padding: 20px;
+}
+
+#shopping-cart-container {
+  position: absolute;
+  right: 0;
+  width: 300px;
+  border: solid 1px #ccc;
+  padding: 10px;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.item .title {
+  font-weight: bold;
+}
+.item .price {
+  color: green;
+  font-weight: bold;
+}
+.item div {
+  padding: 5px 0;
+}
+
+.total {
+  padding: 10px 0;
+  font-weight: bold;
+  font-size: 20px;
+}
+button {
+  border: none;
+  background-color: rgb(241, 217, 28);
+  padding: 5px 10px;
+  border-radius: 5px;
+}

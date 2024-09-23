@@ -15,7 +15,7 @@
 
 ### 1. 📊 <strong>Aplicación de Bases de Datos</strong>
 - **Descripción:** Un sistema de gestión de bases de datos que optimiza el almacenamiento y consulta de información. Incluye integraciones con APIs y control de accesos.
-- **Tecnologías:** Python, SQL, MongoDB
+- **Tecnologías:** Python, SQL, 
 - [🔗 Ver repositorio](https://github.com/Oscardltlml/tu-repositorio-bd)
 
 ---
